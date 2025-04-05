@@ -1,6 +1,6 @@
 # resume
-About Me
-🧑🏻‍💻 Full Stack Web Developer
+#About Me
+#🧑🏻‍💻 Full Stack Web Developer
 🎓 First-year MCA student
 💻 Self-taught Dev
 🎮 Gaming enthusiast
